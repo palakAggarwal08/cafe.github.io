@@ -43,6 +43,13 @@ h2 { margin-top: 0; }
     display: block;
    
 }
+.first-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  margin-top: 50px;
+}
 
 #tm-video {
     position: fixed;
@@ -81,8 +88,8 @@ h2 { margin-top: 0; }
 .tm-site-header {
     background-color: white;
     color: #099;
-    width: 100%;
-    height: 160px; 
+   /* width: 100%;*/
+    height: 180px; 
     display: flex;
     align-items: center;
     justify-content: center;   
