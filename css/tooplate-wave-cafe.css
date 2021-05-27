@@ -185,9 +185,10 @@ h2 { margin-top: 0; }
 .tm-list-item-text-2 { flex: 1; }
 
 .tm-list-item-name {
-    display: flex;
+    /*display: flex;*/
     justify-content: space-between;
     margin-top: 0;
+    text-align: center;
 }
 
 .tm-list-item-price { color: #96FEFF; }
